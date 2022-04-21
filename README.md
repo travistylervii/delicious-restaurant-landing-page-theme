@@ -1,5 +1,5 @@
 # delicious_landing_page_theme
-A theme I developed for the Leadpages.net legacy editor and marketplace.
+A theme I designed & developed for the Leadpages.net legacy editor and marketplace.
 
 Designed in Photoshop
 
